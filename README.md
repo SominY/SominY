@@ -44,3 +44,5 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff">
 </div>
+
+![Somin's GitHub stats](https://github-readme-stats.vercel.app/api?username=somin&show_icons=true&theme=radical)
