@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20Somin's%20Github&textBg=false&animation=twinkling&fontSize=40&fontColor=ffffff)
 
 <!--
 **SominY/SominY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
