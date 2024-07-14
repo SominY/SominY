@@ -35,12 +35,12 @@
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">
     </div><br>
     <!--Development Tools-->
-    <p><strong>Development Tools</strong></p>
+    <p><strong>Tools</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/VSCode-183A61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
-        <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff" />
-        <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=ffffff" />
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff" />
-        
-    </div>
+        <img src="https://img.shields.io/badge/VSCode-183A61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3">
+        <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff">
 </div>
