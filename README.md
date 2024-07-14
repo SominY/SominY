@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=fecdf4&text=Welcom%20Somin's%20Gitgub&fontColor=ffffff&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=ffe5fa&text=Welcom%20Somin's%20Gitgub&fontColor=ffffff&fontSize=50)
 
 <!--
 **SominY/SominY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
