@@ -38,5 +38,6 @@
     <p><strong>Development Tools</strong></p>
     <div>
         <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
+        <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff" />
     </div>
 </div>
